@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="https://img.shields.io/badge/DoccyAI-Multimodal%20Medical%20Assistant-1a9c6e?style=for-the-badge&logo=heart&logoColor=white" alt="DoccyAI Banner"/>
 
 # 🩺 DoccyAI
